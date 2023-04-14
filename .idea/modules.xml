@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/default.iml" filepath="$PROJECT_DIR$/default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ideacheck.iml" filepath="$PROJECT_DIR$/../ideacheck.iml" />
+    </modules>
+  </component>
+</project>
